@@ -14,14 +14,23 @@ Import db_shop.sql ke phpmyadmin kamu lalu sesuaikan di folder config/index.php
 admin@j-shop.com ubah dengan alamat email kamu.
 Lokasi :
 `- index.php`
+
 `- view`
+
 `- order`
+
 `- profile > Index.php`
+
 `- > edit.php`
+
 `- > delete.php`
+
 `- > edit_order.php`
+
 `- > delete_order.php`
+
 `- > promo.php`
+
 `- > delete_promo.php`
 
 ## Ubah M-Banking milik admin
