@@ -2,7 +2,7 @@
 Ini LISENSI untuk Template J-Shop Terima kasih untuk semua yang telah berkontribusi
 
 ## DEMO
->[j-shop.is-best.net](https://j-shop.is-best.net/)
+>[j-shop.is-best.net](http://j-shop.is-best.net/)
 
 # Caranya?
 Minta source ke [IyoRTML](mailto:iyortml@gmail.com)
