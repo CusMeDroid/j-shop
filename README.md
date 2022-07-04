@@ -5,7 +5,11 @@ Ini LISENSI untuk Template J-Shop Terima kasih untuk semua yang telah berkontrib
 >[j-shop.is-best.net](https://j-shop.is-best.net/)
 
 # Caranya?
-Lihat dibawah
+Minta source ke [IyoRTML](mailto:iyortml@gmail.com)
+
+Ada biayanya untuk developer.
+
+Keterangan runnya Lihat dibawah :
 
 ## Database
 Import db_shop.sql ke phpmyadmin kamu lalu sesuaikan di folder config/index.php
