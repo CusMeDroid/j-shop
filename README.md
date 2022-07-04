@@ -12,7 +12,9 @@ Import db_shop.sql ke phpmyadmin kamu lalu sesuaikan di folder config/index.php
 
 ## Ubah email sebagai admin
 admin@j-shop.com ubah dengan alamat email kamu.
+
 Lokasi :
+
 `- index.php`
 
 `- view`
