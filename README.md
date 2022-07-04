@@ -33,14 +33,20 @@ ubah xxx dengan M-Banking kamu.
 
 ## Fitur
 > Login/Register
+
 > CRUD
+
 > Autocomplete Sugest
+
 > Order
 
 # Basic Bahasa Program
 > PHP
+
 > HTML
+
 > CSS
+
 > JS
 
 # MIT License
