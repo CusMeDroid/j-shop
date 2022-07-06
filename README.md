@@ -28,23 +28,23 @@ Lokasi :
 
 `- index.php`
 
-`- view`
+`- view > index.php`
 
-`- order`
+`- order > index.php`
 
 `- profile > Index.php`
 
-`- > edit.php`
+`- profile > edit.php`
 
-`- > edit_order.php`
+`- profile > edit_order.php`
 
-`- > delete.php`
+`- profile > delete.php`
 
-`- > delete_order.php`
+`- profile > delete_order.php`
 
-`- > delete_promo.php`
+`- profile > delete_promo.php`
 
-`- > delete_sponsor.php`
+`- profile > delete_sponsor.php`
 
 ## Ubah M-Banking milik admin
 Cari komen M-Banking pada folder order index.php.
