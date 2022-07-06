@@ -12,6 +12,8 @@ Ada biayanya untuk developer.
 Keterangan menjalankannya Lihat dibawah :
 
 ## Database
+Buat database db_shop
+
 Import db_shop.sql ke phpmyadmin kamu lalu sesuaikan di folder config/index.php
 
 ## Ubah email sebagai admin
