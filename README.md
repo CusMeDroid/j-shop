@@ -11,6 +11,11 @@ Ada biayanya untuk developer.
 
 Keterangan menjalankannya Lihat dibawah :
 
+## Ekstrak file
+Ekstrak file zip kedalam htdocs > j-shop > disini
+
+Jika kamu upload di hosting tinggal upload lalu pilih ekstrak saja.
+
 ## Database
 Buat database db_shop
 
