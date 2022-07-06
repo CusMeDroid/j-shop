@@ -29,9 +29,9 @@ Lokasi :
 
 `- > edit.php`
 
-`- > delete.php`
-
 `- > edit_order.php`
+
+`- > delete.php`
 
 `- > delete_order.php`
 
