@@ -14,7 +14,7 @@ Keterangan menjalankannya Lihat dibawah :
 ## Ekstrak file
 Ekstrak file zip kedalam htdocs > j-shop > disini
 
-Jika kamu upload di hosting tinggal upload lalu pilih ekstrak saja.
+Jika kamu upload di hosting tinggal upload zip lalu pilih ekstrak.
 
 ## Database
 Buat database db_shop
