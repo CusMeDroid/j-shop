@@ -9,7 +9,7 @@ Minta source ke [IyoRTML](mailto:iyortml@gmail.com)
 
 Ada biayanya untuk developer.
 
-Keterangan runnya Lihat dibawah :
+Keterangan menjalankannya Lihat dibawah :
 
 ## Database
 Import db_shop.sql ke phpmyadmin kamu lalu sesuaikan di folder config/index.php
@@ -35,9 +35,9 @@ Lokasi :
 
 `- > delete_order.php`
 
-`- > promo.php`
-
 `- > delete_promo.php`
+
+`- > delete_sponsor.php`
 
 ## Ubah M-Banking milik admin
 Cari komen M-Banking pada folder order index.php.
@@ -54,6 +54,8 @@ ubah xxx dengan M-Banking kamu.
 > Autocomplete Sugest
 
 > Order
+
+> Minimal UI/UX
 
 # Basic Bahasa Program
 > PHP
