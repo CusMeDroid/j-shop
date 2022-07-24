@@ -16,17 +16,7 @@ Ekstrak file zip kedalam htdocs > j-shop > disini
 
 Jika kamu upload di hosting tinggal upload zip lalu pilih ekstrak.
 
-## PHPMYADMIN
-Buat database db_shop
-
-Import db_shop.sql ke phpmyadmin kamu lalu sesuaikan di folder config/index.php
-
-## Ubah email sebagai admin
 Ada di read.me pada folder
-
-## Ubah M-Banking milik admin
-Cari komen M-Banking pada folder order index.php.
-ubah xxx dengan M-Banking kamu.
 
 # Keamanan
 - Encrypt md5 password
