@@ -7,7 +7,7 @@ Ini LISENSI untuk Template J-Shop Terima kasih untuk semua yang telah berkontrib
 # Caranya?
 Minta source ke [IyoRTML](mailto:iyortml@gmail.com)
 
-Ada biayanya untuk developer.
+Ada biaya untuk developer.
 
 Keterangan menjalankannya Lihat dibawah :
 
@@ -16,7 +16,7 @@ Ekstrak file zip kedalam htdocs > j-shop > disini
 
 Jika kamu upload di hosting tinggal upload zip lalu pilih ekstrak.
 
-Ada di read.me pada folder
+Selebihnya ada di read.me pada folder
 
 # Keamanan
 - Encrypt md5 password
