@@ -22,29 +22,7 @@ Buat database db_shop
 Import db_shop.sql ke phpmyadmin kamu lalu sesuaikan di folder config/index.php
 
 ## Ubah email sebagai admin
-admin@j-shop.com ubah dengan alamat email kamu.
-
-Lokasi :
-
-`- index.php`
-
-`- view > index.php`
-
-`- order > index.php`
-
-`- profile > Index.php`
-
-`- profile > edit.php`
-
-`- profile > edit_order.php`
-
-`- profile > delete.php`
-
-`- profile > delete_order.php`
-
-`- profile > delete_promo.php`
-
-`- profile > delete_sponsor.php`
+Ada di read.me pada folder
 
 ## Ubah M-Banking milik admin
 Cari komen M-Banking pada folder order index.php.
